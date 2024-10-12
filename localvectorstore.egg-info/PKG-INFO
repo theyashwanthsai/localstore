@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: localvectorstore
+Version: 0.1.0
+Summary: A simple local vector store implementation using numpy
+Home-page: https://github.com/theyashwanthsai/localvectorstore
+Author: Sai Yashwanth
+Author-email: taddishetty34@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: langchain
